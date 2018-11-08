@@ -508,3 +508,4 @@ LogInit: Object subsystem initialized
 [2018.11.08-00.59.51:881][692]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.11.08-00.59.51:881][692]SourceControl:  create mode 100644 MyProject/Content/Cube_3.uasset
 [2018.11.08-00.59.51:886][692]SourceControl: Commited [master bbfcca5] b.
+[2018.11.08-01.00.44:581][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
