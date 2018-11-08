@@ -438,3 +438,73 @@ LogInit: Object subsystem initialized
 [2018.11.08-00.50.21:712][980]LogOutputDevice: Error: [Callstack] 0x00000000776D383D ntdll.dll!UnknownFunction []
 [2018.11.08-00.50.21:712][980]LogOutputDevice: Error: 
 [2018.11.08-00.50.21:719][980]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.08-00.50.22:566][980]LogStats:                    SendNewReport -  0.848 s
+[2018.11.08-00.50.22:566][980]LogStats:             FDebug::EnsureFailed -  1.045 s
+[2018.11.08-00.50.22:570][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.50.32:399][980]LogSlate: Window 'Submit Files' being destroyed
+[2018.11.08-00.50.32:412][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.50.32:467][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.50.32:574][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.50.32:696][980]LogSourceControl: commit successful: [master e7b5b2a] Blah blah
+[2018.11.08-00.50.32:746][980]SourceControl: [master e7b5b2a] Blah blah
+[2018.11.08-00.50.32:746][980]SourceControl:  2 files changed, 6 insertions(+)
+[2018.11.08-00.50.32:746][980]SourceControl:  create mode 100644 MyProject/Content/Cube.uasset
+[2018.11.08-00.50.32:746][980]SourceControl:  create mode 100644 MyProject/MyProject.uproject
+[2018.11.08-00.50.32:751][980]SourceControl: Commited [master e7b5b2a] Blah blah.
+[2018.11.08-00.50.47:242][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.50.49:466][496]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.11.08-00.50.49:521][496]EditorErrors: Warning: No assets to check in!
+[2018.11.08-00.51.00:312][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-00.51.16:574][580]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.11.08-00.51.16:627][580]EditorErrors: Warning: No assets to check in!
+[2018.11.08-00.51.21:983][913]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-00.51.21:997][913]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-00.57.39:612][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_2" FILE="D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_2.uasset" SILENT=true
+[2018.11.08-00.57.39:625][461]LogSavePackage: Save=12.09ms
+[2018.11.08-00.57.39:625][461]LogSavePackage: Moving 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Saved/Cube_27261A8D64363FB58BB62B6B488FDE874.tmp' to 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_2.uasset'
+[2018.11.08-00.57.39:626][461]LogSavePackage: Display: Finished SavePackage D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_2.uasset
+[2018.11.08-00.57.40:699][524]LogActorFactory: Actor Factory created Cube_2
+[2018.11.08-00.57.41:004][537]LogActorFactory: Actor Factory created Cube_2
+[2018.11.08-00.57.43:836][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.57.45:661][851]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.11.08-00.57.45:757][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.57.51:595][851]LogSlate: Window 'Submit Files' being destroyed
+[2018.11.08-00.57.51:606][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.57.51:667][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.57.51:847][851]LogSourceControl: commit successful: [master bc5d629] aa
+[2018.11.08-00.57.51:877][851]SourceControl: [master bc5d629] aa
+[2018.11.08-00.57.51:877][851]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.11.08-00.57.51:877][851]SourceControl:  create mode 100644 MyProject/Content/Cube_2.uasset
+[2018.11.08-00.57.51:883][851]SourceControl: Commited [master bc5d629] aa.
+[2018.11.08-00.59.30:916][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.33:571][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.11.08-00.59.33:627][879]EditorErrors: Warning: No assets to check in!
+[2018.11.08-00.59.35:535][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.35:605][973]LogSavePackage: Save=19.14ms
+[2018.11.08-00.59.35:605][973]LogSavePackage: Moving 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Saved/Untitled_1_Auto1E9F6E2C349E82B0ED306FAA3A424B54B.tmp' to 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.11.08-00.59.35:605][973]LogSavePackage: Display: Finished SavePackage D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.11.08-00.59.35:610][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.034
+[2018.11.08-00.59.35:610][973]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.034
+[2018.11.08-00.59.39:155][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-00.59.39:804][179]LogActorFactory: Actor Factory created Cube
+[2018.11.08-00.59.40:213][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.41:143][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.41:193][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.41:268][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_3" FILE="D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_3.uasset" SILENT=true
+[2018.11.08-00.59.41:290][289]LogSavePackage: Save=20.23ms
+[2018.11.08-00.59.41:290][289]LogSavePackage: Moving 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Saved/Cube_3DEE4B2FC445DFD778044A0847F06BABF.tmp' to 'D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_3.uasset'
+[2018.11.08-00.59.41:291][289]LogSavePackage: Display: Finished SavePackage D:/LittleEgyptHistoryProject2/LittleEgyptHistoryProject2/MyProject/Content/Cube_3.uasset
+[2018.11.08-00.59.41:446][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.42:211][343]LogActorFactory: Actor Factory created Cube_3
+[2018.11.08-00.59.42:352][350]LogActorFactory: Actor Factory created Cube_3
+[2018.11.08-00.59.46:206][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.47:446][692]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.11.08-00.59.47:502][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.51:612][692]LogSlate: Window 'Submit Files' being destroyed
+[2018.11.08-00.59.51:625][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.51:687][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-00.59.51:851][692]LogSourceControl: commit successful: [master bbfcca5] b
+[2018.11.08-00.59.51:881][692]SourceControl: [master bbfcca5] b
+[2018.11.08-00.59.51:881][692]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.11.08-00.59.51:881][692]SourceControl:  create mode 100644 MyProject/Content/Cube_3.uasset
+[2018.11.08-00.59.51:886][692]SourceControl: Commited [master bbfcca5] b.
